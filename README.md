@@ -54,7 +54,7 @@ void check( )
      switch (irSensors) {
      
      
-     case B10000000: // leftmost sensor on the line
+     case B10000000: // left to right sensor
      leftS();
      break;
       
